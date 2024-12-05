@@ -1,0 +1,7 @@
+v 4
+file . "muxandor_tb.vhdl" "7023113e5b1f2184d5efea8ee7523aa4468ef3cf" "20241202012058.727":
+  entity muxandor_tb at 1( 0) + 0 on 25;
+  architecture mux of muxandor_tb at 7( 84) + 0 on 26;
+file . "muxandor.vhdl" "dbda7bfd51c3a7e9a7cd37cfba1a7f68d3d978b3" "20241202002900.057":
+  entity mux_0 at 1( 0) + 0 on 15;
+  architecture nivel_logico of mux_0 at 10( 188) + 0 on 16;
